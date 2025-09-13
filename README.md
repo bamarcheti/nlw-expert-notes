@@ -4,6 +4,15 @@
 ![preview-create](./.github/preview-create.png)
 ![preview-delete](./.github/preview-delete.png)
 
+<p align="center">
+  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#contato">Contato</a>
+</p>
+
+
+## **💡 Sobre**
 Projeto construído durante o NLW Eperts da Rocketseat com o objetivo de desenvolver uma aplicação de criação de notas tendo a opção de criar digitalmente ou por meio de áudio.
 
 [🔗 Clique aqui para acessar](https://nlw-expert-notes.bamarcheti.dev.br)
@@ -36,7 +45,7 @@ Projeto construído durante o NLW Eperts da Rocketseat com o objetivo de desenvo
 
 - **_[README-install](./README-install.md)_**
 
-## **💛 Contato**
+## **💜 Contato**
 
 [<img src='https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About&logoColor=white' alt='Website' height='30'>](https://bamarcheti.dev.br)
 [<img src='https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white' alt='Discord' height='30'>](https://discord.com/channels/@ba_marcheti#3824)
